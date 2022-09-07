@@ -1,5 +1,5 @@
 import java.io.*;
-public class ComputeQuetientremainder
+public class ComputeQuetientRemainder
 {
     public static void main(String args[])
     {
