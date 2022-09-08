@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class CheckEvenOrOdd
+public class CheckEvenOdd
 {
 	public static void main(String[] args)
 	{
