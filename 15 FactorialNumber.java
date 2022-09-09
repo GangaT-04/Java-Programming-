@@ -14,6 +14,7 @@ public class FactorialNumber
 	    {
 	        fact=fact*i;
 	    }
+		
 	    System.out.println("The Sum of Natural Number is "+fact);
 	}
 }
