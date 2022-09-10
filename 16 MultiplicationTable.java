@@ -13,5 +13,5 @@ public class MultiplicationTable
             int mul=num*i;
             System.out.println(num+"*"+i+"="+mul);
         }
-     }
+    }
 }
