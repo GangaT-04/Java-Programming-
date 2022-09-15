@@ -4,7 +4,7 @@ public class SimpleCalculator {
     public static void main(String args[])
     {
         Scanner s= new Scanner(System.in);
-        int mention;
+        int m;
         do
         {
         System.out.println("Enter two numbers");
@@ -32,7 +32,7 @@ public class SimpleCalculator {
         }
         System.out.println("Do You continue this calculation press (1/0)");
         mention=s.nextInt();
-        }while(mention==1);
+        }while(m==1);
     }
     
 }
