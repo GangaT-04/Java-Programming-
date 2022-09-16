@@ -12,12 +12,12 @@ class Main
 	}
 	static int factorialOfNumber(int number)
 	{
-		if(number!=0)
+		if(number>=1)
 		{
 			return number+factorialOfNumber(number-1);
 		}
 		else{
-			return number;
+			return 1;
 		}
 	}
 	
