@@ -11,7 +11,7 @@ class HalfPyramid
 		    {
 		       System.out.print("* "); 
 		    }
-		    System.out.print("\n");
+		    System.out.println("");
 		}
 	}
 }
